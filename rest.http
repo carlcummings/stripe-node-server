@@ -1,0 +1,8 @@
+POST http://localhost:3333/payment
+content-type: application/json
+{
+  "name" : "sample",
+  "time" : "Today"
+}
+
+###
